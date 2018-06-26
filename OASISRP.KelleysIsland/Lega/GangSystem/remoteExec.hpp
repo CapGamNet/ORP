@@ -1,0 +1,12 @@
+//Lega_RemoteExec
+F(Lega_GangManagement_PlayerConnectedCallBack, ANYONE)
+F(Lega_fnc_gangCheck, ANYONE)
+F(Lega_fnc_leaveGangServer, ANYONE)
+F(Lega_fnc_disbandGangServer, ANYONE)
+F(lega_fnc_ganginvitereceived, ANYONE)
+F(lega_fnc_sendmessage, ANYONE)
+F(Lega_fnc_acceptGangInviteServer, ANYONE)
+F(Lega_fnc_changeRankServer, ANYONE)
+F(Lega_fnc_updateGang, ANYONE)
+F(Lega_fnc_updateRelay, ANYONE)
+F(Lega_fnc_handleFundsServer, ANYONE)
